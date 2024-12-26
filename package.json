@@ -1,6 +1,6 @@
 {
   "name": "liderpack",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Paque de npm para firebase init y servicios",
   "main": "index.ts",
   "type": "module",
